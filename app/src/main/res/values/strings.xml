@@ -5,4 +5,8 @@
     <string name="action_settings">Settings</string>
     <string name="quantityamount">0</string>
     <string name="price">Price</string>
+    <string name="priceamount">$0</string>
+    <string name="order">Order</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
